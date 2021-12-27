@@ -1,2 +1,1 @@
-# pitching_analysis
-An Analysis On Spinrate and Pitcher Performance
+# An Analysis On Spinrate and Pitcher Performance
